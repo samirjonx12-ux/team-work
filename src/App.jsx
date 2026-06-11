@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>App: version 2</div>
+    <div>App: version 12</div>
   )
 }
 
